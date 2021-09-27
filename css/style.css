@@ -282,8 +282,7 @@ video.video {
 .social-media input {
     display: block;
     margin: 20px;
-    margin-left: 20px;
-    padding: 15px 40px;
+    padding: 15px 30px;
     border-radius: 15px;
     background-color: var(--lightColor);
     color: var(--darkColor2);
@@ -300,8 +299,7 @@ video.video {
 .social-media button {
     display: block;
     margin: 20px;
-    margin-left: 20px;
-    padding: 15px 60px;
+    padding: 15px 30px;
     border-radius: 15px;
     background-color: #4caf50;
     color: #fff;
