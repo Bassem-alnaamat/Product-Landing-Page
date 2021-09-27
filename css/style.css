@@ -227,11 +227,11 @@ video.video {
 }
 
 .section5 .article5 {
-  padding-bottom: 10rem;
+  padding-bottom: 7rem;
 }
 
 .section5 .article5 h2 {
-  margin-top: 0;
+  margin: 0 0 5px;
 }
 /*________________________________________________________*/
 
@@ -281,9 +281,9 @@ video.video {
 
 .social-media input {
     display: block;
-    margin: 30px;
+    margin: 20px;
     margin-left: 20px;
-    padding: 15px 60px;
+    padding: 15px 40px;
     border-radius: 15px;
     background-color: var(--lightColor);
     color: var(--darkColor2);
@@ -299,7 +299,7 @@ video.video {
 
 .social-media button {
     display: block;
-    margin: 30px;
+    margin: 20px;
     margin-left: 20px;
     padding: 15px 60px;
     border-radius: 15px;
